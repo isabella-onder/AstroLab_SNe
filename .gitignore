@@ -1,5 +1,5 @@
 snpy/
-_pycache_/
+__pycache__/
 snpy_txt_final/
 snpy_txt_clean/
 snpy_acsn/
