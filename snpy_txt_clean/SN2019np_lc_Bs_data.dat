@@ -1,0 +1,11 @@
+#  column 1:  time
+#  column 2:  oberved magnitude
+#  column 3:  error in observed magnitude
+#  column 4:  Flag:  0=OK  1=Invalid S/K-correction
+58502.18  13.489  0.422  0
+58512.98  13.279  0.015  0
+58513.89  13.308  0.016  0
+58524.84  14.230  0.038  0
+58535.94  15.423  0.091  0
+58539.92  15.731  0.062  0
+58606.91  17.385  0.382  0
