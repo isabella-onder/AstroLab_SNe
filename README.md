@@ -1,7 +1,7 @@
 ### AstroLab Project (BSc equivalent) ###
 "Small Scale Monitoring of Supernovae in the Era of Large Surveys: Photometrically Classifying & Comparing Template Fits and Inferred Parameters using SNooPy". 
 
-#Supervised by Professors Alastair Edge and Kieran O'Brien#
+**Supervised by Professors Alastair Edge and Kieran O'Brien**
 
 Term-long project wherein we personally monitored supernovae using Durham's rooftop telescopes. Following data processing, we produced lightcurves which were used to photometrically classify the supernovae. The type Ia in particular were fitted & calibrated using the Carnegie Supernova Project's Python programme SNooPy, taking reddening effects into account. The inferred absolute magnitude and Hubble's constant are in excellent agreement with the literature.
 
@@ -10,7 +10,7 @@ Term-long project wherein we personally monitored supernovae using Durham's roof
 
 
 
-Repository details:
+<u>Repository details </u>:
 This repository contains the essential files used in the analysis of the data -- the data processing itself was done in AstroLab, of which the essential code is in astrolab_code/. Our tracking diary was SNE_analysis.xlsx. 
 Reduced data to input in SNooPy is in snpy_txt/ -- the equivalent lightcurves as monitored by the Zwicky Transient Factory and used for reference in snpy_txt_ztf/.
 Different aspects of the analysis are separated: 
